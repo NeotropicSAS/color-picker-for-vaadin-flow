@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.neotropic.flow.component</groupId>
-    <artifactId>color-picker-flow-v2</artifactId>
+    <artifactId>color-picker-for-vaadin-flow</artifactId>
     <version>1.0</version>
     <name>Color picker Component for Vaadin Flow</name>
     <description>color picker add-on</description>
