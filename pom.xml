@@ -6,8 +6,8 @@
     <groupId>com.neotropic.flow.component</groupId>
     <artifactId>color-picker-for-vaadin-flow</artifactId>
     <version>0.1.0</version>
-    <name>Color picker Component for Vaadin Flow</name>
-    <description>color picker add-on</description>
+    <name>Color Picker Component for Vaadin Flow</name>
+    <description>A simple color picker for vaadin Flow using an HTML input tag</description>
 
     <properties>
         <vaadin.version>24.6.2</vaadin.version>
